@@ -6,7 +6,11 @@ namespace TeachMeSkills.DotNet.Task1
     {
         static void Main(string[] args)
         {
-            // Your code here..
+            decimal pi = 3.141592653M;
+            decimal e = 2.718281828459045M;
+
+            Console.WriteLine(pi);
+            Console.WriteLine(e);
 
             Console.ReadLine();
         }
