@@ -18,9 +18,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills-DotNet.task2"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills-DotNet.Task3", "src\TeachMeSkills-DotNet.Task3\TeachMeSkills-DotNet.Task3.csproj", "{7184E57E-90FB-4444-8B32-F2174B4C606D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills-DotNet.Task 4", "TeachMeSkills-DotNet.Task 4\TeachMeSkills-DotNet.Task 4.csproj", "{284D87CB-F8AC-4BC1-8502-871E4403A230}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills-DotNet.Task 4", "TeachMeSkills-DotNet.Task 4\TeachMeSkills-DotNet.Task 4.csproj", "{284D87CB-F8AC-4BC1-8502-871E4403A230}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills-DotNet.Task 5", "TeachMeSkills-DotNet.Task 5\TeachMeSkills-DotNet.Task 5.csproj", "{7C403CE4-A9E6-452F-960B-166F4F1D1ADB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills-DotNet.Task 5", "TeachMeSkills-DotNet.Task 5\TeachMeSkills-DotNet.Task 5.csproj", "{7C403CE4-A9E6-452F-960B-166F4F1D1ADB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills-DotNet-Starter.Task 6", "src\TeachMeSkills-DotNet-Starter.Task 6\TeachMeSkills-DotNet-Starter.Task 6.csproj", "{FAB8ED45-244C-4AC1-99A1-EBB0F94425AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,6 +50,10 @@ Global
 		{7C403CE4-A9E6-452F-960B-166F4F1D1ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C403CE4-A9E6-452F-960B-166F4F1D1ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C403CE4-A9E6-452F-960B-166F4F1D1ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB8ED45-244C-4AC1-99A1-EBB0F94425AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB8ED45-244C-4AC1-99A1-EBB0F94425AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB8ED45-244C-4AC1-99A1-EBB0F94425AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB8ED45-244C-4AC1-99A1-EBB0F94425AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
