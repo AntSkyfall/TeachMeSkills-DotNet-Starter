@@ -12,17 +12,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{ABF1C711-D775-48C8-8182-F30B2A0AB4DC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.DotNet.Task1", "src\TeachMeSkills.DotNet.Task1\TeachMeSkills.DotNet.Task1.csproj", "{D866C99C-33BC-4FA1-96A6-CDC363CA6B60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.DotNet.Task 1", "src\TeachMeSkills.DotNet.Task1\TeachMeSkills.DotNet.Task 1.csproj", "{D866C99C-33BC-4FA1-96A6-CDC363CA6B60}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills-DotNet.task2", "src\TeachMeSkills-DotNet.task2\TeachMeSkills-DotNet.task2.csproj", "{ADD12670-465D-4B3A-B292-9C6CA1FA41ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills-DotNet.task 2", "src\TeachMeSkills-DotNet.task2\TeachMeSkills-DotNet.task 2.csproj", "{ADD12670-465D-4B3A-B292-9C6CA1FA41ED}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills-DotNet.Task3", "src\TeachMeSkills-DotNet.Task3\TeachMeSkills-DotNet.Task3.csproj", "{7184E57E-90FB-4444-8B32-F2174B4C606D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills-DotNet.Task 3", "src\TeachMeSkills-DotNet.Task3\TeachMeSkills-DotNet.Task 3.csproj", "{7184E57E-90FB-4444-8B32-F2174B4C606D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills-DotNet.Task 4", "TeachMeSkills-DotNet.Task 4\TeachMeSkills-DotNet.Task 4.csproj", "{284D87CB-F8AC-4BC1-8502-871E4403A230}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills-DotNet.Task 5", "TeachMeSkills-DotNet.Task 5\TeachMeSkills-DotNet.Task 5.csproj", "{7C403CE4-A9E6-452F-960B-166F4F1D1ADB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills-DotNet-Starter.Task 6", "src\TeachMeSkills-DotNet-Starter.Task 6\TeachMeSkills-DotNet-Starter.Task 6.csproj", "{FAB8ED45-244C-4AC1-99A1-EBB0F94425AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills-DotNet.Task 6", "src\TeachMeSkills-DotNet-Starter.Task 6\TeachMeSkills-DotNet.Task 6.csproj", "{FAB8ED45-244C-4AC1-99A1-EBB0F94425AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills-DotNet.Task 7", "TeachMeSkills-DotNet.Task 7\TeachMeSkills-DotNet.Task 7.csproj", "{77D2FE37-B907-4B6C-A8F1-E877638F0125}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -54,6 +56,10 @@ Global
 		{FAB8ED45-244C-4AC1-99A1-EBB0F94425AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAB8ED45-244C-4AC1-99A1-EBB0F94425AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAB8ED45-244C-4AC1-99A1-EBB0F94425AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D2FE37-B907-4B6C-A8F1-E877638F0125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D2FE37-B907-4B6C-A8F1-E877638F0125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D2FE37-B907-4B6C-A8F1-E877638F0125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D2FE37-B907-4B6C-A8F1-E877638F0125}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
