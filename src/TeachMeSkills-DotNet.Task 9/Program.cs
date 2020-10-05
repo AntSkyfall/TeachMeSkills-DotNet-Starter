@@ -2,7 +2,7 @@
 
 namespace TeachMeSkills_DotNet.Task_9
 {
-    class Program
+    class Program // Не придумал 2й вариант проверки на четность!
     {
         static void Main(string[] args)
         {
