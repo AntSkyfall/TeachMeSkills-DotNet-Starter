@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Globalization;
+using System.Threading;
 
 namespace TeachMeSkills_DotNet.Task_17
 {
@@ -6,6 +8,8 @@ namespace TeachMeSkills_DotNet.Task_17
     {
         static void Main(string[] args)
         {
+            Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
+
             Console.WriteLine("Enter the amount in Russian rubles ");
             double rusRub = double.Parse(Console.ReadLine());
 
